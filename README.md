@@ -1,5 +1,7 @@
 # Hasura GraphQL Engine
 
+[article describing](https://blog.hasura.io/build-responsive-cross-platform-vue-apps-with-quasar-framework-and-graphql/)
+
 [![Docs](https://img.shields.io/badge/docs-v1.0-brightgreen.svg?style=flat)](https://docs.hasura.io)
 [![CircleCI](https://circleci.com/gh/hasura/graphql-engine.svg?style=shield)](https://circleci.com/gh/hasura/graphql-engine)
 
